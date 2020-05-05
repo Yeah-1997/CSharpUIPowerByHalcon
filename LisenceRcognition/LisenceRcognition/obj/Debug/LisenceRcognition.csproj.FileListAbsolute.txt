@@ -1,0 +1,12 @@
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\bin\Debug\LisenceRcognition.exe.config
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\bin\Debug\LisenceRcognition.exe
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\bin\Debug\LisenceRcognition.pdb
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\bin\Debug\halcondotnet.dll
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\bin\Debug\halcondotnet.xml
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.Form1.resources
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.Properties.Resources.resources
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.csproj.GenerateResource.cache
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.csproj.CopyComplete
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.exe
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.pdb
+F:\CSharpProject\车牌识别_Halcon_CS\LisenceRcognition\LisenceRcognition\obj\Debug\LisenceRcognition.csprojAssemblyReference.cache
